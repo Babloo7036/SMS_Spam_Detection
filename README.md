@@ -80,11 +80,6 @@ To run the application locally:
 - Streamlit (Web Application)
 - Render (Deployment)
 
-## Future Enhancements
-- Improve model accuracy with deep learning techniques (LSTMs, Transformers).
-- Implement multilingual support for spam detection.
-- Enhance UI/UX of the web application.
-
 ## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request with enhancements or bug fixes.
 
